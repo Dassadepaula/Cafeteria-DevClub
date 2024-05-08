@@ -7,6 +7,7 @@
 }
 html {
     scroll-behavior: smooth;
+
 }
 /*configurações para toda a landing page*/
 * {
@@ -26,6 +27,7 @@ section {
 }
 body{
     background-color: var(--bg);
+
 }
 /*Configurações cabeçalho*/
 
@@ -82,7 +84,7 @@ body{
     letter-spacing: 0.2rem;
 }
  .home-container {
-    background: url("src/img/home-img.jpg") ;
+    background: url("/src/img/home-img.jpg") ;
     height: 100vh;
     background-position: center;
     background-size: cover;
